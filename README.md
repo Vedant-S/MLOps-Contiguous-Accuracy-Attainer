@@ -2,7 +2,7 @@
 ____________________________________________________________________________________________________________________________________
 Project Includes python script (which runs in an MLOps environment) with the task of auto training Models until a desired accuracy is achieved. DevOps concepts and tools such as Docker and Jenkins have been integrated to the Deep Learning Model to attain this powerful setup.<br><br>
 `Project completed under LinuxWorld Informatics Ltd. - MLOps Internship.`
-____________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________
 ### Author:
 ----------------------------------
 ```diff
